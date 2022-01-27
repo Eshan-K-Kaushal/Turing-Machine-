@@ -82,7 +82,7 @@ def subtraction(a,b):
     for i in range(len(tape_bd)):
         if tape_bd[i] == 1:
             sub1 += 1
-    print('The result of the subtraction is 'sub1)
+    print('The result of the subtraction is ', sub1)
 # end of subtraction function
 
 '''
